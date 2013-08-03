@@ -1,0 +1,1 @@
+avro=com.bsb.dubbo.rpc.protocol.avro.AvroProtocol
